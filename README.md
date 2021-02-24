@@ -1,1 +1,2 @@
-# nw_ds_final_project
+# final-project
+Repository for the final project
