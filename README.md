@@ -8,6 +8,8 @@
 
 -GitHub Repository: https://github.com/RebelDroid09/final-project.git
 
+-Github Repository:https://github.com/mengyin-lee/nw_ds_final_project.git
+
 -Tableau Public: https://public.tableau.com/profile/ivan.choi#!/vizhome/FinalProjectMap_16137055299100/Story1?publish=yes
 
 
