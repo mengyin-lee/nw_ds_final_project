@@ -8,6 +8,7 @@
 > GitHub Repository: https://github.com/RebelDroid09/final-project.git
 > Tableau Public: https://public.tableau.com/profile/ivan.choi#!/vizhome/FinalProjectMap_16137055299100/Story1?publish=yes
 
+
 #####The definition of the Happiness Score is based on survey results, that was first used in the 2012 World Happiness 
 #####Report. In the survey, the respondents were asked to rate their happiness on a scale from 0 to 10. The Happiness 
 #####Score is calculated by averaging the survey results of the respondents.
